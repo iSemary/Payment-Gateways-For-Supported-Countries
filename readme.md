@@ -84,6 +84,9 @@ Created By @iSemary
 # المغرب
 
 - [2Checkout](https://www.2checkout.com/)
+- [FasterPay](https://www.fasterpay.com/)
+- [Paymentwall](https://www.paymentwall.com/en)
+- [PayZone](https://www.payzone.ma)
 
 <img src="assets/002-syria.png" align="right" width="50px" />
 
