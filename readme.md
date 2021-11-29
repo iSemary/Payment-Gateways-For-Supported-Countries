@@ -78,3 +78,17 @@ Created By @iSemary
 
 - [Paymentwall](https://www.paymentwall.com/en)
 - [2Checkout](https://www.2checkout.com/)
+
+<img src="assets/002-syria.png" align="right" width="50px" />
+
+# سوريا
+
+- [RPay](https://www.rpaygateway.com/payment-gateways/syria)
+- [Paymentwall](https://www.paymentwall.com/en)
+
+
+<img src="assets/001-libya.png" align="right" width="50px" />
+
+# ليبيا
+
+- [Paymentwall](https://www.paymentwall.com/en)
