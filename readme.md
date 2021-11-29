@@ -77,9 +77,15 @@ Created By @iSemary
 # البحرين
 
 - [Paymentwall](https://www.paymentwall.com/en)
+
+<img src="assets/morocco.png" align="right" width="50px" />
+
+# المغرب
+
 - [2Checkout](https://www.2checkout.com/)
 
 <img src="assets/002-syria.png" align="right" width="50px" />
+
 
 # سوريا
 
